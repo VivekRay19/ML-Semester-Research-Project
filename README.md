@@ -1,4 +1,4 @@
-final readme : # ML-Semester-Research-Project
+# ML-Semester-Research-Project
 
 Literature Audit — Component D
 
