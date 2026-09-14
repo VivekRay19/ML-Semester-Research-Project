@@ -299,8 +299,6 @@ Course: Principles of Machine Learning
 Component: Week 1 — Component D: The Literature Audit
 Group: Group 3
 
-Add the team members' names and student IDs here before submitting the repository.
-
 License / Academic Use
 
 This repository is intended for academic coursework and research documentation.
