@@ -62,7 +62,7 @@ The workbook is organized into two sheets:
 
 Rejection Tally — papers screened but excluded, together with the reason for exclusion.
 
-Important: These counts represent the current working dataset and are not the final 400-paper literature audit. The dataset is expected to grow as screening continues.
+Important: These counts represent the current working dataset and these are the part of the final 400-paper literature audit. The dataset is expected to grow as screening continues.
 
 Screening Criteria
 
