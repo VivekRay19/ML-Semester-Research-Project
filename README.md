@@ -268,21 +268,6 @@ Keep source links for traceability.
 
 Treat the screening rules as fixed criteria rather than deciding eligibility on a paper-by-paper basis.
 
-Repository Structure
-
-A recommended repository structure is:
-
-.
-├── README.md
-├── data/
-│   └── Component D_ Group3.xlsx
-├── docs/
-│   └── screening-criteria.md
-└── references/
-    └── source-links.md
-
-If additional versions of the dataset are created, use clear version names rather than overwriting earlier working copies.
-
 Current Status
 
 Phase: Literature Audit / Component D
@@ -304,7 +289,11 @@ Each paper's DOI or source URL is stored directly in the dataset. The original p
 
 This repository contains research notes and structured literature-audit data; it does not reproduce the full text of the cited publications.
 
-Team
+Team:
+Aliraza Mulla
+Riya Shingare
+Guru Sandeep Mygapula
+Vivek Ray
 
 Course: Principles of Machine Learning
 Component: Week 1 — Component D: The Literature Audit
